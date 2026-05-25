@@ -1,0 +1,6 @@
+{
+  "name": "Ancient Greek Text-to-Speech",
+  "description": "Convert Ancient Greek text into high-quality spoken audio using reconstructed classical pronunciations, along with translation, phonetics, and grammatical parsing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
